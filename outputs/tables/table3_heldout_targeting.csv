@@ -1,0 +1,9 @@
+selection_rule,captured_pct,covered_pct,lift,days_with_lift_gt_1
+"Most excursions on training days, k = 1",74.0,0.9,126.73,11 of 11
+"Most excursions on training days, k = 2",80.9,4.5,20.09,11 of 11
+"Most excursions on training days, k = 3",80.9,7.3,11.56,11 of 11
+"Most excursions on training days, k = 5",87.4,9.8,9.27,11 of 11
+"Most excursions on training days, k = 10",89.8,19.6,5.07,11 of 11
+"Most excursions on training days, k = 20",90.4,32.3,2.93,11 of 11
+Nested selection (k = 1 chosen on all days),74.0,0.9,126.73,11 of 11
+Benchmark: five cells with the most at-risk time,1.8,35.5,0.05,0 of 11
