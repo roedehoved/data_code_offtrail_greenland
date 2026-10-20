@@ -1,0 +1,10 @@
+# Python 3.13. Versions used to produce the published results.
+numpy==2.4.6
+pandas==3.0.3
+pyarrow==24.0.0
+matplotlib==3.11.0
+geopandas==1.1.3
+shapely==2.1.2
+rasterio==1.5.0
+pyproj==3.7.2
+gpxpy==1.6.2
